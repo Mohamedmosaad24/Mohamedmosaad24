@@ -2,16 +2,19 @@
 <h3 align="center">Full Stack .NET Developer | Turning ideas into scalable solutions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mosaad44">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Mosaad-blue?style=flat&logo=linkedin">
+  <a href="https://www.linkedin.com/in/mohamed-mosaad44" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Mosaad-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:Mohamedmoused44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Mohamedmoused44%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Mohamedmosaad24">
-    <img src="https://img.shields.io/badge/GitHub-Mohamedmosaad24-black?style=flat&logo=github">
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mohamedmosaad24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Mohamedmosaad24-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Egypt-green?style=flat&logo=google-maps">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-2E7D32?style=flat&logo=google-maps&logoColor=white"/>
 </p>
 
 ---
