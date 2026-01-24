@@ -83,8 +83,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamedmosaad24&show_icons=true" />
 </p>
-## 📈 Contribution Activity
-![Mohamed Mosaad's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedmosaad24&theme=github-dark)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedmosaad24" />
@@ -96,3 +94,5 @@
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-mosaad44
 - 💻 GitHub: https://github.com/Mohamedmosaad24
 - 📧 Email: Mohamedmoused44@gmail.com
+## 📈 Contribution Activity
+![Mohamed Mosaad's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedmosaad24&theme=github-dark)
