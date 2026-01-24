@@ -2,25 +2,10 @@
 <h3 align="center">Full Stack .NET Developer | Turning ideas into scalable solutions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mosaad44" target="_blank">
-    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-    &nbsp;LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="mailto:Mohamedmoused44@gmail.com">
-    <img height="20" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg"/>
-    &nbsp;Email
-  </a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mohamedmosaad24" target="_blank">
-    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-    &nbsp;GitHub
-  </a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <span>
-    <img height="20" src="https://www.svgrepo.com/show/303548/cairo.svg"/>
-    &nbsp;Cairo, Egypt
-  </span>
+  <a href="https://www.linkedin.com/in/mohamed-mosaad44">LinkedIn</a> •
+  <a href="mailto:Mohamedmoused44@gmail.com">Email</a> •
+  <a href="https://github.com/Mohamedmosaad24">GitHub</a> •
+  Cairo, Egypt
 </p>
 
 ---
