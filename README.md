@@ -3,18 +3,24 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-mosaad44" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Mosaad-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    &nbsp;LinkedIn
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="mailto:Mohamedmoused44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mohamedmoused44%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img height="20" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg"/>
+    &nbsp;Email
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Mohamedmosaad24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Mohamedmosaad24-181717?style=flat&logo=github&logoColor=white"/>
+    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    &nbsp;GitHub
   </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-2E7D32?style=flat&logo=google-maps&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <span>
+    <img height="20" src="https://www.svgrepo.com/show/303548/cairo.svg"/>
+    &nbsp;Cairo, Egypt
+  </span>
 </p>
 
 ---
