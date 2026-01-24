@@ -30,16 +30,6 @@
 
 ## 🏆 Featured Projects
 
-### 🏨 Examination System
-**Web-based examination and assessment platform**
-- ASP.NET Core MVC, EF Core, SQL Server
-- Authentication & Authorization
-- Clean Architecture & Repository Pattern
-- Admin dashboard and role-based access  
-🔗 **[GitHub](https://github.com/Mohamedmosaad24)**
-
----
-
 ### 🛒 Talabat API
 **RESTful API for food ordering system**
 - ASP.NET Core Web API
@@ -49,7 +39,17 @@
 🔗 **[GitHub](https://github.com/Mohamedmosaad24)**
 
 ---
+### 🎬 Movies API
+**RESTful API for managing movies, genres, and actors**
+- ASP.NET Core Web API
+- Entity Framework Core + SQL Server
+- CRUD Operations + Filtering/Searching
+- DTOs + AutoMapper (if used)
+- RESTful endpoints with clean architecture principles  
+🔗 **[GitHub](ضع لينك الريبو بتاع Movies API هنا)**  
 
+
+---
 ### 🎮 Game Zone
 **Interactive gaming management platform**
 - ASP.NET MVC
@@ -59,7 +59,15 @@
 🔗 **[GitHub](https://github.com/Mohamedmosaad24)**
 
 ---
+### 🏨 Examination System
+**Web-based examination and assessment platform (JavaScript)**
+- HTML5, CSS3, Bootstrap
+- JavaScript (DOM, Events) + LocalStorage
+- Responsive UI + Validation
+- Clean, structured code and reusable components  
+🔗 **[GitHub](https://github.com/Mohamedmosaad24)**
 
+ ---
 ## 🧰 My Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,js,jquery,ts,angular,git,github,sqlserver" />
