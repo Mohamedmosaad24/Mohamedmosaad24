@@ -47,6 +47,8 @@
 
 🔗 Backend: **[GitHub](https://github.com/Mohamedmosaad24/Affalite)**  
 🔗 Frontend: **[GitHub](https://github.com/Mohamedmosaad24/Affilliate-Front)**
+🔗 Backend Deploy : **[Backend-Deploy](https://affiliate.somee.com/swagger/index.html)**
+🔗 Frontend Deploy : **[Frontend-Deploy](https://affilliate-front.vercel.app/login)**
 
 ---
 
