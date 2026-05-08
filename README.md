@@ -1,5 +1,10 @@
+```md
 <h1 align="center">👋 Hi, I'm Mohamed Mosaad</h1>
-<h3 align="center">Full Stack .NET Developer | Turning ideas into scalable solutions</h3>
+<h3 align="center">Full Stack .NET Developer | ASP.NET Core • Angular • SQL Server</h3>
+
+<p align="center">
+  Building scalable web applications & RESTful APIs
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-mosaad44" target="_blank">
@@ -17,58 +22,118 @@
   <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-2E7D32?style=flat&logo=google-maps&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 🚀 About Me
-- Computer Science graduate passionate about building robust web applications.
-- Experienced in **.NET Full Stack development** (ASP.NET Core, MVC, Web API, Angular).
-- Love solving real-world problems with clean, scalable solutions.
-- Always learning, always building.
+
+- 💻 Full Stack .NET Developer specialized in ASP.NET Core & Angular
+- 🏗️ Passionate about building scalable web applications and RESTful APIs
+- 🔐 Experienced in authentication, authorization, and clean architecture
+- 📚 Strong understanding of OOP, SOLID Principles, and Design Patterns
+- ⚡ Always learning and improving problem-solving skills
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🛒 Talabat API
+### 🛒 Souaqly – Affiliate Marketing & Commission Management Platform
+**Full-stack affiliate platform connecting merchants and marketers**
+
+- ASP.NET Core Web API + Angular
+- Multi-role system (Admin / Merchant / Marketer)
+- JWT Authentication & Authorization
+- Automated commission calculation engine
+- Product management & sales tracking
+- Responsive UI with Angular + Bootstrap
+
+🔗 Backend: **[GitHub](https://github.com/Mohamedmosaad24/Affalite)**  
+🔗 Frontend: **[GitHub](https://github.com/Mohamedmosaad24/Affiliate-Front)**
+
+---
+
+### 🎂 Velvet – Cake Shop Fullstack Project
+**Scalable e-commerce cake shop platform**
+
+- .NET 8 Web API + Angular
+- 3-Tier Architecture
+- JWT Authentication & Role-based Authorization
+- Order management system
+- Product catalog with filtering & sorting
+- Responsive Angular UI
+
+🔗 **[GitHub](https://github.com/Mohamedmosaad24/Mart)**
+
+---
+
+### 🏨 Tripster – Hotel Management & Booking System
+**Hotel and room booking management system**
+
+- ASP.NET Core MVC
+- Hotel, room, and booking CRUD operations
+- Authentication & Authorization
+- Admin dashboard
+- Advanced search and filtering
+- Responsive UI using Bootstrap
+
+🔗 **[GitHub](https://github.com/Mohamedmosaad24/Tripster)**
+
+---
+
+### 🍽️ Talabat API
 **RESTful API for food ordering system**
-- ASP.NET Core Web API
+
+- ASP.NET Core 8 Web API
+- Onion Architecture
+- Generic Repository & Unit Of Work
+- Specification Pattern
 - JWT Authentication
-- Clean Code & Design Patterns
-- SQL Server & EF Core  
-🔗 **[GitHub](https://github.com/Mohamedmosaad24)**
+- Clean Architecture Principles
+
+🔗 **[GitHub](https://github.com/Mohamedmosaad24/Talabat-Api)**
 
 ---
+
 ### 🎬 Movies API
-**RESTful API for managing movies, genres, and actors**
-- ASP.NET Core Web API
-- Entity Framework Core + SQL Server
-- CRUD Operations + Filtering/Searching
-- DTOs + AutoMapper (if used)
-- RESTful endpoints with clean architecture principles  
-🔗 **[GitHub](ضع لينك الريبو بتاع Movies API هنا)**  
+**RESTful API for managing and searching movies**
 
+- ASP.NET Core Web API
+- JWT Authentication & Authorization
+- Movie search and filtering
+- Entity Framework Core
+- AutoMapper
+- Clean API Architecture
+
+🔗 **[GitHub](https://github.com/Mohamedmosaad24/Movies-Api)**
 
 ---
+
 ### 🎮 Game Zone
 **Interactive gaming management platform**
+
 - ASP.NET MVC
 - CRUD Operations
 - Pagination & Search
-- SQL Server  
-🔗 **[GitHub](https://github.com/Mohamedmosaad24)**
+- SQL Server Integration
+- Clean reusable code structure
+
+🔗 **[GitHub](https://github.com/Mohamedmosaad24/GameZone)**
 
 ---
-### 🏨 Examination System
-**Web-based examination and assessment platform (JavaScript)**
-- HTML5, CSS3, Bootstrap
-- JavaScript (DOM, Events) + LocalStorage
-- Responsive UI + Validation
-- Clean, structured code and reusable components  
-🔗 **[GitHub](https://github.com/Mohamedmosaad24)**
 
- ---
+### 📝 Examination System
+**Web-based examination and assessment platform**
+
+- HTML5, CSS3, Bootstrap
+- JavaScript (DOM, Events, LocalStorage)
+- Validation & Responsive UI
+- Structured reusable components
+
+🔗 **[GitHub](https://github.com/Mohamedmosaad24/Examination-System)**
+
+---
+
 ## 🧰 My Toolbox
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,js,jquery,ts,angular,git,github,sqlserver" />
 </p>
@@ -76,23 +141,30 @@
 ---
 
 ## 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedmosaad24&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedmosaad24&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedmosaad24&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedmosaad24&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedmosaad24" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedmosaad24&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
+
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-mosaad44
 - 💻 GitHub: https://github.com/Mohamedmosaad24
 - 📧 Email: Mohamedmoused44@gmail.com
+
+---
+
 ## 📈 Contribution Activity
+
 ![Mohamed Mosaad's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedmosaad24&theme=github-dark)
+```
