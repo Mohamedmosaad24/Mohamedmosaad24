@@ -46,7 +46,7 @@
 - Responsive UI with Angular + Bootstrap
 
 🔗 Backend: **[GitHub](https://github.com/Mohamedmosaad24/Affalite)**  
-🔗 Frontend: **[GitHub](https://github.com/Mohamedmosaad24/Affiliate-Front)**
+🔗 Frontend: **[GitHub](https://github.com/Mohamedmosaad24/Affilliate-Front)**
 
 ---
 
