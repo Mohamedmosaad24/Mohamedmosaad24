@@ -60,7 +60,8 @@
 - Product catalog with filtering & sorting
 - Responsive Angular UI
 
-🔗 **[GitHub](https://github.com/Mohamedmosaad24/Mart)**
+🔗 Frontend: **[GitHub](https://github.com/Mohamedmosaad24/Mart)**
+🔗 Backend: **[GitHub](https://github.com/Mohamedmosaad24/Mattger)**  
 
 ---
 
