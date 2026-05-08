@@ -1,4 +1,3 @@
-```md
 <h1 align="center">👋 Hi, I'm Mohamed Mosaad</h1>
 <h3 align="center">Full Stack .NET Developer | ASP.NET Core • Angular • SQL Server</h3>
 
@@ -167,4 +166,3 @@
 ## 📈 Contribution Activity
 
 ![Mohamed Mosaad's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedmosaad24&theme=github-dark)
-```
